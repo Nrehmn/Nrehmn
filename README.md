@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Naveed Rehman
-- 👀 I’m interested in Data, Economics, and Policy. 
-- 🌱 I’m currently learning Data Methods 
-- 💞️ I’m looking to collaborate on Data cleaning and Management 
+- 👀 I’m interested in Data, Economics, and development Policy. 
+- 🌱 I’m currently learning Data science Methods. 
+- 💞️ I’m looking to collaborate on Data cleaning and Management. 
 - 📫 How to reach me naveedrehman2@icloud.com, @NNrehman.
 
 <!---
